@@ -16,3 +16,4 @@ def hs(n):
      print (counter + 1)
      print ("None")
      
+hs(10)
